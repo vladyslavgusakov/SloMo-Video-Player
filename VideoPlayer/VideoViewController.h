@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  VideoViewController.h
 //  VideoPlayer
 //
 //  Created by Vladyslav Gusakov on 4/13/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface VideoViewController : UIViewController
 
 @end
-
