@@ -1,9 +1,9 @@
 # SloMo-Video-Player
 
 <p align="center">
-<img align="left" src="s2.png" height="30%" width="30%" alt=""/>
-<img align="center" src="s3.png" height="30%" width="30%" alt=""/>
-<img align="right" src="s1.png" height="30%" width="30%" alt=""/>
+<img align="left" src="s2.PNG" height="30%" width="30%" alt=""/>
+<img align="center" src="s3.PNG" height="30%" width="30%" alt=""/>
+<img align="right" src="s1.PNG" height="30%" width="30%" alt=""/>
 </p>
 
 
